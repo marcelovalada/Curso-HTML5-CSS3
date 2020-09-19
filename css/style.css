@@ -1,0 +1,21 @@
+body {
+    background: #c0bcfb;
+    margin-left: 100px;
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+h2{
+    color: red;
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.icone {
+    margin: 20px;
+}
